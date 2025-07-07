@@ -1,0 +1,42 @@
+#Request{
+color: white;
+background-color: black;
+height: 36px;
+width: 100px;
+border: none;
+}
+#cart{
+color: black;
+border: none;
+border-radius: 50px;
+background-color: yellow;
+height: 36px;
+width: 120px;
+}
+#Sign{
+color: white;
+background-color: rgb(46, 164, 79);;
+height: 36px;
+width: 70px;
+font-weight: bolder;
+border: none;
+border-radius: 3px;
+}
+#get{
+    height: 36px;
+    width: 100px;
+    color: white;
+    background-color: rgb(121, 82, 179);
+    border: none;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+#down{
+    height: 36px;
+    width: 100px;
+    color: rgb(108, 117, 125);
+    background-color: white;
+    border: 1px solid rgb(108, 117, 125);
+    border-radius: 3px;
+    font-weight: bolder;
+}
