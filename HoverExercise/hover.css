@@ -1,0 +1,18 @@
+#down{
+    height: 36px;
+    width: 100px;
+    border: 1px solid rgb(156, 60, 156);
+    border-radius: 3px;
+    color: black;
+    background-color: white;
+    font-weight: bolder;
+    transition: width 1s, color 1s, box-shadow 1s, border 1s, background-color 1s;
+}
+#down:hover{
+    background-color:rgb(156, 60, 156);
+    color: white;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(155, 154, 154);
+    cursor: pointer;
+    width: 110px;
+}
