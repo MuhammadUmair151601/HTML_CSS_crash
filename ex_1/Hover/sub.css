@@ -5,11 +5,14 @@
     color: white;
     border: none;
     border-radius: 2px;
+    transition: background-color 1s, width 1s;
+
 }
 #sub:hover{
     background-color: green;
     cursor: pointer;
     opacity: 0.7;
+    width: 110px;
 }
 #sub:active{
     background-color: blue;
