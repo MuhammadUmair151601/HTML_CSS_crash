@@ -1,0 +1,50 @@
+#stretch{
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: padding-left 1s, padding-right 1s, padding-top 1s, padding-bottom 1s;
+}
+#stretch:hover{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#shadow{
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: box-shadow 1s;
+}
+#shadow:hover{
+    box-shadow: 10px 10px 10px rgb(189, 188, 188);
+}
+.btn{
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: padding-left 1s, padding-right 1s;
+    margin: 5px;
+}
+.btn:hover{
+    padding-left: 25px;
+    padding-right: 25px;
+}
