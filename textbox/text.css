@@ -1,4 +1,4 @@
-.search{
+/* .search{
     border-radius: 5px;
     font-size: 20px;
     border: 1px solid rgb(180, 177, 177);
@@ -49,4 +49,11 @@
 }
 .google{
     margin-left: 60px;
+} */
+#txt1{
+    padding: 7px;
+}
+#txt3{
+    display: block;
+    padding: 7px;
 }
