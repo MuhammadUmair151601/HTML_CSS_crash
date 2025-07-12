@@ -80,7 +80,7 @@
  .btn1{
     margin-left: 20px;
  } */
-  .div1{
+  /* .div1{
     border: 1px solid rgb(144, 142, 142);
     height: 40px;
     width: 400px;
@@ -100,4 +100,13 @@
     color: white;
     font-weight: bolder;
     margin-left: 170px;
-  }
+  } */
+    .frm{
+        border: 1px solid black;
+        height: 400px;
+        width: 400px;
+    }
+    .input{
+        display: block;
+        margin-left: 20px;
+    }
