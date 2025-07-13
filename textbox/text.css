@@ -105,16 +105,31 @@
         border: 1px solid black;
         height: 400px;
         width: 400px;
+        background-color:rgb(206, 40, 206) ;
     }
     .input{
         display: block;
-        margin-left: 20px;
+        margin-left: 100px;
+        border: none;
+        height: 30px;
+        width: 150px;
+        color: rgb(63, 5, 36);
+        font-family: serif;
+        font-size: 15px;
+        font-weight: bolder;
     }
     #lgn{
         padding-left: 50px;
         padding-right: 50px;
         padding-top: 10px;
         padding-bottom: 10px;
-        margin-left: 20px;
-        margin-top: 20px;
+        margin-left: 100px;
+        margin-top: 40px;
+        background-color: rgb(228, 130, 228);
+        border: none;
+        font-weight: bolder;
+        font-size: 15px;
+        font-family: serif;
+        color: white;
+        border-radius: 30px;
     }
